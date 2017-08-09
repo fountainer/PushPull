@@ -1,0 +1,6 @@
+{
+  //
+  "ignored_extensions": [".pdf", ".exe", ".synctex.gz", ".aux", ".bbl", ".blg",
+  ".log"],
+  "folder_cloud": "D:\\OneDrive\\SublimePushPull"
+}

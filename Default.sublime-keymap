@@ -1,0 +1,10 @@
+[
+  {
+    "keys": ["ctrl+alt+p"],
+    "command": "push_file_folder"
+  },
+  {
+    "keys": ["ctrl+shift+alt+p"],
+    "command": "pull_file_folder"
+  }
+]
